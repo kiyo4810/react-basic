@@ -12,8 +12,8 @@ function App() {
         </p>
         {/* 文字列は中括弧囲んでも囲まなくてもOK */}
         <Article title={"Kiyo4810初のReact"} content={"ここでは私の初のReactの作成"} />
-        <Article title={"Another title1"} content={"Another content1"} />
-        <Article title={"Another title2"} content={"Another content2"} />
+        <Article title={"タイトル１　だから何やねん"} content={"なんとなくデザインのある雛形サイトはできた。だから何やねんというあなたの心無い声は聞こえている"} />
+        <Article title={"タイトル２　大きな一歩"} content={"しかし私にとってはこれは大きな一歩である。JavaScriptを学習後リアクトを習得したいという欲望"} />
 
         <p>React雛形Pタグ</p>
         <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
